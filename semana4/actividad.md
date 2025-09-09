@@ -18,7 +18,7 @@ Deben diseñar un **sistema de gestión de reservas de restaurante** con los sig
 ## Instrucciones
 1. **Formación de equipos (5 minutos)**:  
    - Se organizarán en grupos de 3-4 personas.  
-   - Cada grupo recibirá una copia de este enunciado y acceso a una pizarra o herramienta digital (como Jamboard) para tomar notas.
+   - Cada grupo recibirá una copia de este enunciado y creará una pizarra de Miró para tomar notas.
 
 2. **Análisis y diseño rápido (10 minutos)**:  
    - **Tarea 1: Diseño básico (5 minutos)**:  
